@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+    font-family: "Montserrat";
+}
+
+.main-section {
+    padding: 20px;
+
+}
+
+.image-container {
+    height: 500px;
+    width: 800px;
+    background-size: cover;
+
+    background-image: url("https://www.iatvaltramontina.it/wp-content/uploads/2020/08/mulino-campone-1024x683.jpg")
+}
+
+
+h1 {
+    font-family: "Prata";
+    font-size: 64px;
+    font-weight: 400;
+    margin-bottom: 0;
+}
+
+h3 {
+    font-family: "Prata";
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 0;
+
+}
+
+a {
+    font-weight: 600;
+    font-style: italic;
+    text-decoration: none;
+
+}
+
+li a:visited {
+    color: #026449;
+}
+
+h6 {
+    padding: 22px;
+    margin-bottom: 0;
+    margin-top: 56px;
+    color: white;
+    border-radius: 6px;
+    background: linear-gradient(120deg, #026449, rgb(47, 47, 110));
+
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 22px;
+    border-bottom: 1px #dfdfdf;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 16px;
+    text-align: center;
+}
